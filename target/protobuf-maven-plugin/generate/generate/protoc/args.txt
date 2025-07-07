@@ -1,0 +1,9 @@
+--java_out=/Users/sachin.sharmap8.io/Documents/Java-service/target/generated-sources/protobuf
+--plugin=protoc-gen-Mjk8Q65HgdLxDqB-iZrdcaSmW64=/Users/sachin.sharmap8.io/.m2/repository/io/grpc/protoc-gen-grpc-java/1.72.0/protoc-gen-grpc-java-1.72.0-osx-aarch_64.exe
+--Mjk8Q65HgdLxDqB-iZrdcaSmW64_out=/Users/sachin.sharmap8.io/Documents/Java-service/target/generated-sources/protobuf
+--Mjk8Q65HgdLxDqB-iZrdcaSmW64_opt=jakarta_omit,@generated=omit
+/Users/sachin.sharmap8.io/Documents/Java-service/src/main/proto/json_ingestor.proto
+--proto_path=/Users/sachin.sharmap8.io/Documents/Java-service/src/main/proto
+--proto_path=/Users/sachin.sharmap8.io/Documents/Java-service/target/protobuf-maven-plugin/generate/generate/archives/grpc-services-1.72.0-qL6orAED6jkyXkDPca_KZSGxIdg
+--proto_path=/Users/sachin.sharmap8.io/Documents/Java-service/target/protobuf-maven-plugin/generate/generate/archives/protobuf-java-4.30.2-5UrAZ-63PSctech8AGhQoSInIKA
+--proto_path=/Users/sachin.sharmap8.io/Documents/Java-service/target/protobuf-maven-plugin/generate/generate/archives/proto-google-common-protos-2.54.1-TAUIIzz71-ZO1iMsR-GI10ZJVR8

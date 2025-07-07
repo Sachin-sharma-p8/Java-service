@@ -1,0 +1,12 @@
+/Users/sachin.sharmap8.io/Documents/Java-service/src/main/java/com/demo/project/GrpcDataProcessorClient.java
+/Users/sachin.sharmap8.io/Documents/Java-service/src/main/java/com/demo/project/JavaProjectApplication.java
+/Users/sachin.sharmap8.io/Documents/Java-service/src/main/java/com/demo/project/JsonData.java
+/Users/sachin.sharmap8.io/Documents/Java-service/src/main/java/com/demo/project/JsonDataRepository.java
+/Users/sachin.sharmap8.io/Documents/Java-service/src/main/java/com/demo/project/JsonIngestorService.java
+/Users/sachin.sharmap8.io/Documents/Java-service/src/main/java/com/demo/project/KafkaProducerService.java
+/Users/sachin.sharmap8.io/Documents/Java-service/target/generated-sources/protobuf/com/demo/project/grpc/IngestJsonRequest.java
+/Users/sachin.sharmap8.io/Documents/Java-service/target/generated-sources/protobuf/com/demo/project/grpc/IngestJsonRequestOrBuilder.java
+/Users/sachin.sharmap8.io/Documents/Java-service/target/generated-sources/protobuf/com/demo/project/grpc/IngestJsonResponse.java
+/Users/sachin.sharmap8.io/Documents/Java-service/target/generated-sources/protobuf/com/demo/project/grpc/IngestJsonResponseOrBuilder.java
+/Users/sachin.sharmap8.io/Documents/Java-service/target/generated-sources/protobuf/com/demo/project/grpc/JsonIngestorGrpc.java
+/Users/sachin.sharmap8.io/Documents/Java-service/target/generated-sources/protobuf/com/demo/project/grpc/JsonIngestorProto.java
